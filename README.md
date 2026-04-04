@@ -1,11 +1,13 @@
-﻿<p align="center">
-  <img src="./assets/banner.svg" alt="Sankush24x7 profile banner" width="100%" />
-</p>
+﻿<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/themes/banner-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="./assets/themes/banner-light.svg">
+  <img alt="Sandeep Kushwaha banner" src="./assets/themes/banner-light.svg" width="100%">
+</picture>
 
 <h1 align="center">Sandeep Amerika Kushwaha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2200&pause=700&color=0284C7&center=true&vCenter=true&width=980&lines=Senior+Software+Developer;ASP.NET+%7C+Angular+%7C+SQL+Server;Building+Reliable+Apps+%2B+Automation+Systems" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2200&pause=700&color=0284C7&center=true&vCenter=true&width=980&lines=Senior+Software+Developer;ASP.NET+%7C+Angular+%7C+SQL+Server;Enterprise+Apps+%7C+Automation+%7C+Performance" alt="Typing intro" />
 </p>
 
 <p align="center">
@@ -26,12 +28,12 @@
 
 ## Executive Snapshot
 
-- Senior Software Developer at Empronc Solutions Pvt. Ltd. (April 2024 to Present).
-- Build enterprise modules for procurement, reimbursements, and approval workflows.
-- Strong in full-stack delivery with ASP.NET, Angular, SQL Server, and TypeScript.
-- Focus areas: production reliability, performance tuning, maintainable architecture, and mentoring.
+- Senior Software Developer at Empronc Solutions Pvt. Ltd. (April 2024 to Present)
+- 4+ years across ASP.NET, C#, Angular, TypeScript, SQL Server, and production support
+- Delivered enterprise spend-management workflows and release-ready modules
+- Focus: quality engineering, reliability, performance, and team mentorship
 
-## Premium Tech Stack
+## Premium Stack
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -44,35 +46,39 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-## Showcase Projects
+## V3 Project Showcase
 
 Reference date: **April 4, 2026**.
 
-| Project | What It Solves | Stack |
-|---|---|---|
-| [intraclick-sentinel](https://github.com/Sankush24x7/intraclick-sentinel) | Captures click-by-click evidence with screenshots, notes, and report exports. | JavaScript, Chrome Extension |
-| [sqlpilot-dba-studio-releases](https://github.com/Sankush24x7/sqlpilot-dba-studio-releases) | Publishes release artifacts for DBA-focused tooling distribution. | Release Ops |
-| [LocalSystemProductivityTracker](https://github.com/Sankush24x7/LocalSystemProductivityTracker) | Tracks local productivity signals for desktop usage insights. | C#, .NET |
-| [Ollama_SpyTool_Setup](https://github.com/Sankush24x7/Ollama_SpyTool_Setup) | Setup and packaging utilities for Ollama-related tooling workflows. | Rust |
-| [security-xray-extension](https://github.com/Sankush24x7/security-xray-extension) | Browser-side security checks and extension-based analysis helpers. | JavaScript |
-| [Site-Performance-Detector](https://github.com/Sankush24x7/Site-Performance-Detector) | Measures and reports website performance behavior. | JavaScript |
+<p align="center">
+  <a href="https://github.com/Sankush24x7/intraclick-sentinel">
+    <img src="./assets/projects/intraclick-sentinel.svg" alt="IntraClick Sentinel" width="48%" />
+  </a>
+  <a href="https://github.com/Sankush24x7/LocalSystemProductivityTracker">
+    <img src="./assets/projects/productivity-tracker.svg" alt="Productivity Tracker" width="48%" />
+  </a>
+</p>
 
-## Now Building (Roadmap)
+<p align="center">
+  <a href="https://github.com/Sankush24x7/security-xray-extension">
+    <img src="./assets/projects/security-xray.svg" alt="Security X-Ray" width="48%" />
+  </a>
+</p>
 
-- Hardening automation-first developer tools for day-to-day productivity.
-- Expanding security and performance browser extensions.
-- Improving release packaging and setup experiences for internal products.
+## Now Building
 
-## Trust Signals
-
-- Delivered enterprise spend-management modules used across internal business workflows.
-- Experience in release support, post-deployment debugging, and QA collaboration.
-- Mentored team members and improved development standards through code reviews.
+- Security and performance browser utilities
+- Automation-first developer productivity workflows
+- Better packaging and release experience for internal tools
 
 ## GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sankush24x7&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub stats" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Sankush24x7&show_icons=true&hide_border=true&theme=tokyonight">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Sankush24x7&show_icons=true&hide_border=true&theme=default">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=Sankush24x7&show_icons=true&hide_border=true&theme=default" alt="GitHub stats" />
+  </picture>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sankush24x7&hide_border=true&theme=transparent" height="170" alt="GitHub streak" />
 </p>
 
@@ -93,4 +99,4 @@ Reference date: **April 4, 2026**.
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,100:0f172a&height=2&section=footer" width="100%"/>
 
-<p align="center"><i>Building practical software with premium quality, every single day.</i></p>
+<p align="center"><i>V3 profile: theme-adaptive, visual, and project-forward.</i></p>

@@ -1,0 +1,7 @@
+﻿<svg xmlns="http://www.w3.org/2000/svg" width="600" height="280" viewBox="0 0 600 280" role="img" aria-label="security xray card">
+  <defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#3f1d2e"/><stop offset="100%" stop-color="#9f1239"/></linearGradient></defs>
+  <rect width="600" height="280" rx="18" fill="url(#g)"/>
+  <text x="36" y="86" fill="#ffe4e6" font-family="Segoe UI, Arial" font-size="34" font-weight="700">Security X-Ray</text>
+  <text x="36" y="132" fill="#fecdd3" font-family="Segoe UI, Arial" font-size="20">Browser security checks</text>
+  <text x="36" y="168" fill="#fda4af" font-family="Consolas, monospace" font-size="18">Extension • Risk Signals • Review</text>
+</svg>
