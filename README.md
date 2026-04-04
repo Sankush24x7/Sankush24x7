@@ -46,24 +46,18 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-## V3 Project Showcase
+## Showcase Projects
 
 Reference date: **April 4, 2026**.
 
-<p align="center">
-  <a href="https://github.com/Sankush24x7/intraclick-sentinel">
-    <img src="./assets/projects/intraclick-sentinel.svg" alt="IntraClick Sentinel" width="48%" />
-  </a>
-  <a href="https://github.com/Sankush24x7/LocalSystemProductivityTracker">
-    <img src="./assets/projects/productivity-tracker.svg" alt="Productivity Tracker" width="48%" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/Sankush24x7/security-xray-extension">
-    <img src="./assets/projects/security-xray.svg" alt="Security X-Ray" width="48%" />
-  </a>
-</p>
+| Project | What It Solves | Stack |
+|---|---|---|
+| [intraclick-sentinel](https://github.com/Sankush24x7/intraclick-sentinel) | Captures click-by-click evidence with screenshots, notes, and report exports. | JavaScript, Chrome Extension |
+| [sqlpilot-dba-studio-releases](https://github.com/Sankush24x7/sqlpilot-dba-studio-releases) | Publishes release artifacts for DBA-focused tooling distribution. | Release Ops |
+| [LocalSystemProductivityTracker](https://github.com/Sankush24x7/LocalSystemProductivityTracker) | Tracks local productivity signals for desktop usage insights. | C#, .NET |
+| [Ollama_SpyTool_Setup](https://github.com/Sankush24x7/Ollama_SpyTool_Setup) | Setup and packaging utilities for Ollama-related tooling workflows. | Rust |
+| [security-xray-extension](https://github.com/Sankush24x7/security-xray-extension) | Browser-side security checks and extension-based analysis helpers. | JavaScript |
+| [Site-Performance-Detector](https://github.com/Sankush24x7/Site-Performance-Detector) | Measures and reports website performance behavior. | JavaScript |
 
 ## Now Building
 
