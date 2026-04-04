@@ -18,10 +18,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Sankush24x7"><img src="https://img.shields.io/badge/GitHub-Sankush24x7-181717?style=flat-square&logo=github" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/sandeep-kushwaha-16bb171aa"><img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kushwaha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://sankush24x7.github.io/sandeep-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:kushwahasandeep1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://github.com/Sankush24x7"><img src="https://img.shields.io/badge/GitHub-Sankush24x7-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-kushwaha-16bb171aa"><img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sankush24x7.github.io/sandeep-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kushwahasandeep1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0284c7&height=2&section=header" width="100%"/>
@@ -32,6 +32,13 @@
 - 4+ years across ASP.NET, C#, Angular, TypeScript, SQL Server, and production support
 - Delivered enterprise spend-management workflows and release-ready modules
 - Focus: quality engineering, reliability, performance, and team mentorship
+
+## Featured Achievements
+
+- Built and supported enterprise procurement, reimbursement, and approval modules in live business systems.
+- Improved delivery quality through structured code reviews, QA collaboration, and post-release defect resolution.
+- Mentored junior developers and standardized documentation and release-note practices for smoother handovers.
+- Consistently handled critical production issues with fast analysis and practical fixes.
 
 ## Premium Stack
 
@@ -59,11 +66,34 @@ Reference date: **April 4, 2026**.
 | [security-xray-extension](https://github.com/Sankush24x7/security-xray-extension) | Browser-side security checks and extension-based analysis helpers. | JavaScript |
 | [Site-Performance-Detector](https://github.com/Sankush24x7/Site-Performance-Detector) | Measures and reports website performance behavior. | JavaScript |
 
+## Case Studies
+
+- `intraclick-sentinel`
+Problem: Manual evidence collection during QA and audits was slow and inconsistent.
+Solution: Built a Chrome extension flow to capture click-level screenshots, notes, and report output.
+Impact: Faster defect reporting, clearer audit trails, and improved testing communication.
+
+- `LocalSystemProductivityTracker`
+Problem: Teams needed local-level visibility into productivity signals without complex setup.
+Solution: Developed a desktop tracker that captures useful activity insights and summaries.
+Impact: Better operational awareness and easier performance discussions.
+
 ## Now Building
 
 - Security and performance browser utilities
 - Automation-first developer productivity workflows
 - Better packaging and release experience for internal tools
+
+## Services I Can Help With
+
+- Full-stack application development using ASP.NET, Angular, and SQL Server
+- Dashboard and workflow module development for enterprise systems
+- SQL query tuning, debugging, and backend performance improvements
+- Internal automation tools with PowerShell and productivity-focused utilities
+
+## Open to Collaborate
+
+Open to freelance, consulting, and full-time opportunities on .NET, Angular, SQL, and automation projects.
 
 ## GitHub Insights
 
