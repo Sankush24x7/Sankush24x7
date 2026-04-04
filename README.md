@@ -5,23 +5,33 @@
 <h1 align="center">Sandeep Amerika Kushwaha</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2500&pause=800&color=0EA5E9&center=true&vCenter=true&width=900&lines=Senior+Software+Developer;ASP.NET+%7C+Angular+%7C+SQL+Server;Automation+Builder+%7C+Problem+Solver+%7C+Team+Mentor" alt="Typing intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=700&size=24&duration=2200&pause=700&color=0284C7&center=true&vCenter=true&width=980&lines=Senior+Software+Developer;ASP.NET+%7C+Angular+%7C+SQL+Server;Building+Reliable+Apps+%2B+Automation+Systems" alt="Typing intro" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sankush24x7&label=Profile%20Views&color=0284c7&style=for-the-badge" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/Sankush24x7?label=Followers&style=for-the-badge" alt="Followers" />
   <img src="https://img.shields.io/github/stars/Sankush24x7?affiliations=OWNER&style=for-the-badge" alt="Stars" />
+  <img src="https://img.shields.io/badge/Experience-4%2B%20Years-0f766e?style=for-the-badge" alt="Experience" />
 </p>
 
-## About Me
+<p align="center">
+  <a href="https://github.com/Sankush24x7"><img src="https://img.shields.io/badge/GitHub-Sankush24x7-181717?style=flat-square&logo=github" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/sandeep-kushwaha-16bb171aa"><img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kushwaha-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://sankush24x7.github.io/sandeep-portfolio/"><img src="https://img.shields.io/badge/Portfolio-Live-0f766e?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:kushwahasandeep1234@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0284c7&height=2&section=header" width="100%"/>
+
+## Executive Snapshot
 
 - Senior Software Developer at Empronc Solutions Pvt. Ltd. (April 2024 to Present).
-- 4+ years of full-stack experience with ASP.NET, C#, Angular, TypeScript, and SQL Server.
-- Strong focus on scalable architecture, clean code, release quality, and cross-team delivery.
-- Based in Mumbai, Maharashtra, India.
+- Build enterprise modules for procurement, reimbursements, and approval workflows.
+- Strong in full-stack delivery with ASP.NET, Angular, SQL Server, and TypeScript.
+- Focus areas: production reliability, performance tuning, maintainable architecture, and mentoring.
 
-## Signature Skills
+## Premium Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
@@ -34,17 +44,32 @@
   <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell" />
 </p>
 
-## Featured Recent Projects
+## Showcase Projects
 
-Reference date for this list: **April 4, 2026**.
+Reference date: **April 4, 2026**.
 
-- [intraclick-sentinel](https://github.com/Sankush24x7/intraclick-sentinel): Click-by-click browser evidence capture extension with screenshots, annotation support, and report exports.
-- [sqlpilot-dba-studio-releases](https://github.com/Sankush24x7/sqlpilot-dba-studio-releases): Release distribution repository for SQLPilot DBA Studio deliverables.
-- [LocalSystemProductivityTracker](https://github.com/Sankush24x7/LocalSystemProductivityTracker): Desktop utility for local productivity monitoring and analysis.
-- [Ollama_SpyTool_Setup](https://github.com/Sankush24x7/Ollama_SpyTool_Setup): Rust-based setup and packaging project for Ollama-related tooling.
-- [security-xray-extension](https://github.com/Sankush24x7/security-xray-extension): Browser extension focused on security inspection and checks.
+| Project | What It Solves | Stack |
+|---|---|---|
+| [intraclick-sentinel](https://github.com/Sankush24x7/intraclick-sentinel) | Captures click-by-click evidence with screenshots, notes, and report exports. | JavaScript, Chrome Extension |
+| [sqlpilot-dba-studio-releases](https://github.com/Sankush24x7/sqlpilot-dba-studio-releases) | Publishes release artifacts for DBA-focused tooling distribution. | Release Ops |
+| [LocalSystemProductivityTracker](https://github.com/Sankush24x7/LocalSystemProductivityTracker) | Tracks local productivity signals for desktop usage insights. | C#, .NET |
+| [Ollama_SpyTool_Setup](https://github.com/Sankush24x7/Ollama_SpyTool_Setup) | Setup and packaging utilities for Ollama-related tooling workflows. | Rust |
+| [security-xray-extension](https://github.com/Sankush24x7/security-xray-extension) | Browser-side security checks and extension-based analysis helpers. | JavaScript |
+| [Site-Performance-Detector](https://github.com/Sankush24x7/Site-Performance-Detector) | Measures and reports website performance behavior. | JavaScript |
 
-## GitHub Performance
+## Now Building (Roadmap)
+
+- Hardening automation-first developer tools for day-to-day productivity.
+- Expanding security and performance browser extensions.
+- Improving release packaging and setup experiences for internal products.
+
+## Trust Signals
+
+- Delivered enterprise spend-management modules used across internal business workflows.
+- Experience in release support, post-deployment debugging, and QA collaboration.
+- Mentored team members and improved development standards through code reviews.
+
+## GitHub Insights
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sankush24x7&show_icons=true&hide_border=true&theme=transparent" height="170" alt="GitHub stats" />
@@ -66,23 +91,6 @@ Reference date for this list: **April 4, 2026**.
   <img src="https://raw.githubusercontent.com/Sankush24x7/Sankush24x7/dist/github-contribution-grid-snake.svg" alt="Contribution snake" />
 </p>
 
-## Connect
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,100:0f172a&height=2&section=footer" width="100%"/>
 
-<p>
-  <a href="https://github.com/Sankush24x7">
-    <img src="https://img.shields.io/badge/GitHub-Sankush24x7-181717?style=for-the-badge&logo=github" alt="GitHub" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandeep-kushwaha-16bb171aa">
-    <img src="https://img.shields.io/badge/LinkedIn-Sandeep%20Kushwaha-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://sankush24x7.github.io/sandeep-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-0f766e?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-  </a>
-  <a href="mailto:kushwahasandeep1234@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
----
-
-<p align="center"><i>Building practical software, intelligent workflows, and reliable systems every day.</i></p>
+<p align="center"><i>Building practical software with premium quality, every single day.</i></p>
