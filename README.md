@@ -123,4 +123,4 @@ Open to freelance, consulting, and full-time opportunities on .NET, Angular, SQL
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0284c7,100:0f172a&height=2&section=footer" width="100%"/>
 
-<p align="center"><i>V3 profile: theme-adaptive, visual, and project-forward.</i></p>
+<%--<p align="center"><i>V3 profile: theme-adaptive, visual, and project-forward.</i></p>--%>
